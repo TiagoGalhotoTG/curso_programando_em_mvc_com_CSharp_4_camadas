@@ -17,5 +17,11 @@
                     Desenvolvimento de extensão do Visual Studio.
 
             SQL Server Express "2022".
+
+            Modelo MVC
+
+                             Model
+            Sistema          View             Banco De Dados
+                           Controller 
                     
     
