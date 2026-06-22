@@ -24,7 +24,7 @@
             Sistema          View             Banco De Dados
                            Controller 
 
-        Exercício
+            Exercício
 
             () 1. O que é arquitetura MVC?
             () 2. Quais são as camadas da arquitetura MVC?
