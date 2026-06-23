@@ -2,19 +2,7 @@
     
         Introdução
         
-    ------------------------------------------------------------------------------------------------
     
-        Instalando Visual Studio
-
-        Ferramentas:
-            IDE Visual Studio Profissional 2022.
-                Carga de trabalho associada a IDE:
-                    Desenvolvimento para desktop com .NET.
-                    Desenvolvimento para desktop com C++.
-                    Desenvolvimento com a Plataforma Universal do Windows.
-                    Processamento e armazenamento de dados.
-                    Desenvolvimento de extensão do Visual Studio.
-            SQL Server Express "2022".
             
    
             
