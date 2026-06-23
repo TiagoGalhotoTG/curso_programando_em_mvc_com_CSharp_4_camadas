@@ -6,7 +6,7 @@
 
         Instalando Visual Studio
             Ferramentas:
-                IDE Visual Studio professional 2022
+                IDE Visual Studio professional 2022.
                     Carga de trabalho associada a IDE:
                         Desenvolvimento para desktop com .NET.
                         Desenvolvimento para desktop com C++.
