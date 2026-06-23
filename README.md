@@ -1,7 +1,9 @@
     Curso Programando Em MVC Com c# 4 camadas
     
         Introdução
-    -------------------------------------------------------------------------------------------------
+        
+    ------------------------------------------------------------------------------------------------
+    
         Instalando Visual Studio
 
         Ferramentas:
@@ -13,7 +15,9 @@
                     Processamento e armazenamento de dados.
                     Desenvolvimento de extensão do Visual Studio.
             SQL Server Express "2022".
-    -------------------------------------------------------------------------------------------------
+            
+    ------------------------------------------------------------------------------------------------
+    
         Modelo MVC
                              Model
             Sistema          View             Banco De Dados
@@ -23,7 +27,9 @@
             () 1. O que é arquitetura MVC?
             () 2. Quais são as camadas da arquitetura MVC?
             () 3. Explique o que cada camada faz na arquitetura MVC?
-    --------------------------------------------------------------------------------------------------    
+            
+    ------------------------------------------------------------------------------------------------
+    
         Criando o Projeto
             Visual Studio > Arquivo > Novo Projeto > Aplicativo do Windows Forms (NET Framework) > 
             Nome *****.View > Nome da Solução ***** 
