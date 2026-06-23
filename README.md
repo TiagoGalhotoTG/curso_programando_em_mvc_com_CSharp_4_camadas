@@ -15,6 +15,19 @@
                         Desenvolvimento de extensões do Visual Studio.
                 Sql Server Express "2022".
 
+     ------------------------------------------------------------------------------------------------
+    
+        Modelo MVC
+                             Model
+            Sistema          View             Banco De Dados
+                           Controller 
+    
+        Exercício
+            () 1. O que é arquitetura MVC?
+            () 2. Quais são as camadas da arquitetura MVC?
+            () 3. Explique o que cada camada faz na arquitetura MVC?
+
+
         
 
 
