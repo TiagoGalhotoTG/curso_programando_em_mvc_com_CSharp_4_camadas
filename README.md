@@ -28,10 +28,6 @@
             () 2. Quais são as camadas da arquitetura MVC?
             () 3. Explique o que cada camada faz na arquitetura MVC?
             
-    ------------------------------------------------------------------------------------------------
-    
-        Criando o Projeto
-            Visual Studio > Arquivo > Novo Projeto > Aplicativo do Windows Forms (NET Framework) > 
-            Nome *****.View > Nome da Solução ***** 
+     
         
     
